@@ -1,3 +1,6 @@
+import dns from 'node:dns';
+dns.setServers(['8.8.8.8', '1.1.1.1']);
+
 import app from "./app.ts";
 import connectDB from "./config/database.config.ts";
 import { initializeKnowledgeBase } from "./services/rag.service.ts";
