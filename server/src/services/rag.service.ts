@@ -158,7 +158,7 @@ export const getRAGResponse = async (question: string): Promise<string> => {
     const retrieve = createRetrieveTool(vectorStore);
 
     const model = new ChatGoogleGenerativeAI({
-      model: "gemini-2.5-flash",
+      model: "gemini-3.5-flash",
       temperature: 0.7,
     });
 
@@ -192,3 +192,4 @@ export const getRAGResponse = async (question: string): Promise<string> => {
     return "I'm having trouble right now. Please try again or click 'Talk to Us'.";
   }
 };
+
