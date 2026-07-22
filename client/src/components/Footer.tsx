@@ -13,7 +13,7 @@ export default function Footer() {
               <span className="font-heading text-xl font-bold">EduReach</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Premier engineering institution established in 2005. AICTE approved, JNTU Hyderabad affiliated.
+              A modern engineering institution in Nagpur, Maharashtra, offering quality education, industry-oriented learning, AI-powered student support, and excellent placement opportunities.
             </p>
           </div>
 
@@ -62,7 +62,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-gray-800 pt-6 text-center text-sm text-gray-500">
-          © 2024 EduReach College, Hyderabad. All rights reserved.
+          © 2026 EduReach College, Nagpur. All rights reserved.
         </div>
       </div>
     </footer>
