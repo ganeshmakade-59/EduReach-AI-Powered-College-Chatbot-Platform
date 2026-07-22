@@ -1,10 +1,7 @@
 EduReach College — Complete Information
 
 ABOUT US
-EduReach College is a premier engineering and technology institution established in 2005. Located in Hyderabad, Telangana, India. Affiliated with JNTU Hyderabad and approved by AICTE, New Delhi.
-The campus spans 25 acres with smart classrooms, advanced laboratories, central library with 50,000+ books, sports complex, and hostels.
-Faculty includes 150+ experienced professors, many with PhDs from IITs. Student-to-faculty ratio is 15:1.
-Ranked among top 50 engineering colleges in Telangana. Active alumni network of 10,000+ graduates worldwide.
+EduReach College is a premier engineering and technology institution located in Nagpur, Maharashtra, India. The college is committed to academic excellence, innovation, research, and industry-oriented education. The campus features modern classrooms, advanced laboratories, a central library, sports facilities, and dedicated placement support for students.
 
 COURSES OFFERED
 B.Tech Programs (4 years):
@@ -34,9 +31,9 @@ Scholarships: Merit Scholarship gives top 10 rankers 50 percent tuition waiver. 
 Payment can be made in 2 installments per year. Education loans available through SBI, HDFC, ICICI. EMI options available.
 
 ADMISSIONS PROCESS
-B.Tech: 70 percent seats through TS EAMCET or AP EAMCET counseling. 30 percent management quota based on 12th marks and interview. Eligibility is 10+2 with PCM minimum 60 percent. JEE Main holders get preference.
+B.Tech: 70 percent seats through MHT-CET or JEE Main. 30 percent institute-level admissions based on 12th PCM marks and interview. Eligibility is 10+2 with Physics, Chemistry, and Mathematics with a minimum of 60 percent.
 M.Tech: 50 percent through GATE score. 50 percent through college entrance test. Eligibility is B.Tech or BE with minimum 60 percent.
-MBA: 70 percent through TS ICET counseling. 30 percent management quota. Eligibility is Bachelors degree with minimum 50 percent.
+MBA: Admissions are based on MAH MBA CET scores or graduation merit, followed by the institute admission process. Eligibility is a Bachelor's degree with a minimum of 50 percent marks.
 Application opens March 1st. Last date for management quota July 15th. Classes begin August 1st odd semester, January 2nd even semester.
 
 PLACEMENT STATISTICS 2023-2024
@@ -45,7 +42,7 @@ Overall placement rate is 92 percent. Total offers made were 850 plus. Highest p
 AI and DS had 100 percent placement. CSE had 95 percent. IT had 90 percent. ECE had 85 percent.
 
 CAMPUS AND FACILITIES
-25 acre green campus in Hyderabad. Smart classrooms with projectors and audio systems. 12 advanced laboratories including AI Lab, IoT Lab, Robotics Lab, VLSI Lab, Networking Lab. Central library with 50000 plus books and digital library access. High speed WiFi across campus. 500 plus computers in labs.
+25 acre green campus in Nagpur, Maharashtra. Smart classrooms with projectors and audio systems. 12 advanced laboratories including AI Lab, IoT Lab, Robotics Lab, VLSI Lab, Networking Lab. Central library with 50000 plus books and digital library access. High speed WiFi across campus. 500 plus computers in labs.
 Separate hostels for boys and girls. AC and Non-AC rooms available. Vegetarian and non-vegetarian mess. Gym and fitness center.
 Sports complex with cricket ground, football ground, basketball court, tennis court, volleyball court, badminton court. Indoor games room with table tennis, chess, carrom.
 Medical center on campus with doctor available during college hours. ATM and stationery shop on campus.
@@ -63,5 +60,5 @@ Dr Vikram Patel is Professor in AI and DS Department. PhD from Stanford Universi
 Prof Meera Reddy is Head of MBA Department. MBA from IIM Ahmedabad. PhD from ISB Hyderabad. 18 years teaching plus 7 years at Deloitte. Leads the Startup Incubator.
 
 CONTACT INFORMATION
-Admissions office email is admissions@edureach.edu.in. General inquiries email is info@edureach.edu.in. Phone number is plus 91 9876543210. Address is EduReach College, Hyderabad, Telangana, India.
+Admissions office email is admissions@edureach.edu.in. General inquiries email is info@edureach.edu.in. Phone number is plus 91 9876543210.Address is EduReach College, Nagpur, Maharashtra, India.
 Office hours are Monday to Saturday 9 AM to 5 PM. Admissions office is open during application season on Sundays as well.
