@@ -158,7 +158,7 @@ export const getRAGResponse = async (question: string): Promise<string> => {
     const retrieve = createRetrieveTool(vectorStore);
 
     const model = new ChatGoogleGenerativeAI({
-      model: "gemini-3.5-flash",
+      model: "gemini-3.6-flash",
       temperature: 0.7,
     });
 
