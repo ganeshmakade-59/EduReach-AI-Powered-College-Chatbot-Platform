@@ -1,5 +1,7 @@
 # EduReach — AI-Powered College Assistance Platform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 College websites are static and hard to navigate — students end up calling admissions offices for basic info like fees or placement stats. EduReach solves this with an AI assistant, grounded in the college's real data, available as both a **chat interface** and an **AI voice counselor** that can call students directly.
 
 Built to go beyond a typical CRUD app and get hands-on with real AI engineering: retrieval-augmented generation, vector search, agentic tool use, and voice AI — on top of a complete, deployable full-stack product with proper auth.
