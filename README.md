@@ -209,6 +209,18 @@ This is called **agentic RAG**: the model can reformulate its search query, deci
 
 ---
 
+## Screenshots
+
+| Homepage | AI Chatbot |
+|---|---|
+| ![Homepage](./assets/screenshots/homepage.png) | ![Chatbot](./assets/screenshots/chatbot.png) |
+
+| Login | AI Voice Counselor |
+|---|---|
+| ![Login](./assets/screenshots/login.png) | ![Voice Counselor](./assets/screenshots/voice-counselor.png) |
+
+---
+
 ## Roadmap
 
 - [ ] Admin dashboard for managing the knowledge base
